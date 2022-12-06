@@ -1,4 +1,4 @@
-<h2 align="center">Oieee, seja muito bem vindo(a)! 💖 </h2>
+<h1 align="center">Oieee, seja muito bem vindo(a)! 💖 </h1>
 
 - 👩 Meu nome é Jamille Araujo
 - 😊 Pronomes: Ela/Dela
@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HeyJamille&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyJamille&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HeyJamille&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyJamille&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
