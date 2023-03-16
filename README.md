@@ -1,9 +1,8 @@
 <h1 align="center">Oieee, seja muito bem vindo(a)! 💖 </h1>
 
 - 👩 Meu nome é Jamille Araujo
-- 😊 Pronomes: Ela/Dela
 - 👩‍💻 Estudante de Ciência da Computação
-- 🥰 Foco em Desenvolvimento Front-End
+- 🥰 Foco em Desenvolvimento Full-Stack
 
 ##
 
